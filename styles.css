@@ -1,31 +1,30 @@
-
 body {
   background: url(images/bg-pattern-top.svg) no-repeat, url(images/bg-pattern-bottom.svg) no-repeat;
   background-position: right 49vw bottom 40vh, left 50vw top 49vh;
-  background-color: #1BA0AD;
-  font-family: 'Kumbh Sans', sans-serif;
+  background-color: #1ba0ad;
+  font-family: "Kumbh Sans", sans-serif;
   text-align: center;
   margin: 0;
 }
 
 span {
-  color: #AEAEAE;
+  color: #aeaeae;
 }
 
-h1{
+h1 {
   margin: 0 auto;
   display: inline-block;
   font-size: 1rem;
 }
 
 h2 {
-  color: #AEAEAE;
+  color: #aeaeae;
   font-size: 0.95rem;
 }
 
-h3{
+h3 {
   margin: 0 auto;
-  color: #AEAEAE;
+  color: #aeaeae;
   display: inline-block;
   font-size: 0.7rem;
 }
@@ -39,7 +38,7 @@ h3{
   background-color: white;
 }
 
-.name{
+.name {
   font-size: 1.2rem;
   margin-top: 63%;
 }
@@ -47,7 +46,7 @@ h3{
 .card {
   text-align: center;
   position: relative;
-  background: #FFFFFF;
+  background: #ffffff;
   width: 21rem;
   height: 23rem;
   margin: 10rem auto;
@@ -55,7 +54,7 @@ h3{
   box-shadow: 0 0 500px -65px #3d3d3d;
 }
 
-.card-top{
+.card-top {
   background-image: url(images/bg-pattern-card.svg);
   height: 18rem;
   background-repeat: no-repeat;
@@ -65,7 +64,7 @@ h3{
 
 .card-bottom {
   border-top-style: solid;
-  border-color: #F0F0F0;
+  border-color: #f0f0f0;
   padding-top: 25px;
 }
 
@@ -76,12 +75,12 @@ h3{
 }
 
 a {
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 .attribution {
-  color: #FFFFFF;
+  color: #ffffff;
   bottom: 10px;
 }
 
@@ -94,5 +93,5 @@ a {
 .bg-bottom {
   position: absolute;
   top: 380px;
-  left: 520px
+  left: 520px;
 }
